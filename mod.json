@@ -1,0 +1,9 @@
+{
+    "name": "bugdustry",
+    "displayName": "Bugdustry",
+    "author": "QmelZ",
+    "description": "Adds bugs/glitches to the game.",
+    "version": 1,
+    "minGameVersion": 121,
+    "hidden": true,
+}
